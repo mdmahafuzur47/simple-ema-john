@@ -1,0 +1,19 @@
+.header{
+    background-color: #1C2B35;
+    
+}
+.navigation-bar {
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2.4rem;
+}
+.navigation-bar div a{
+    text-decoration: none;
+    color: white;
+    margin-left: 1.4rem;
+}
+.navigation-bar div a:hover{
+    color: rgb(240, 149, 29);
+}
